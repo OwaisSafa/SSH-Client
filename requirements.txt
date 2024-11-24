@@ -1,0 +1,7 @@
+paramiko>=3.0.0
+customtkinter>=5.1.2
+cryptography>=41.0.0
+pytermgui>=7.5.0
+typing-extensions>=4.5.0
+tkinter>=8.6
+pillow>=9.0.0
